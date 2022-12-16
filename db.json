@@ -1,0 +1,36 @@
+{
+  "customer": [
+    {
+      "fname": "alucard",
+      "lname": "Gomez",
+      "address": "United States",
+      "gender": "Female",
+      "email": "selena@gmail.com",
+      "id": 1
+    },
+    {
+      "fname": "Jordan",
+      "lname": "Poole",
+      "address": "California",
+      "gender": "Male",
+      "email": "jordan@gmail.com",
+      "id": 2
+    },
+    {
+      "fname": "Honey Joyce",
+      "lname": "Valleser",
+      "address": "Norway",
+      "gender": "Female",
+      "email": "honeyjoyce@gmail.com",
+      "id": 3
+    },
+    {
+      "fname": "Leeyhan",
+      "lname": "Jawil",
+      "address": "Russia",
+      "gender": "Female",
+      "email": "leeyhan@gmail.com",
+      "id": 4
+    }
+  ]
+}
